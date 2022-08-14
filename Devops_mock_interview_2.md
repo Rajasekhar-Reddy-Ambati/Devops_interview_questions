@@ -32,7 +32,8 @@ Ansible
 14. Lets say i have 4 machines consider 1 as ansible master other 3 as nodes, what are the basic setup you need to do for ansible cluster?
 15. what are ansible roles? why we need ansible roles? have you worked on ansible galaxy?
 16. What are ansible facts?
-17. Can we have windows machine as ansible master? as node?have you worked on any windows modules? can you list few?any extra configuration do we need to do?
+A. it collects using setup module by default
+18. Can we have windows machine as ansible master? as node?have you worked on any windows modules? can you list few?any extra configuration do we need to do?
 
 Docker
 ------------------------------------------------------------------------------------------------------------------------------
